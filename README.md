@@ -69,12 +69,3 @@ Abre un Pull Request.
 Desarrollado con ❤️ por Emanuel Bertorello
 
 
----
-
-### 💡 Tips extra del "Lead Developer":
-
-1.  **Captura de Pantalla:** Si ya tienes la interfaz avanzada, agrega una imagen o un GIF después de la descripción. Nada vende mejor un proyecto que verlo funcionando.
-2.  **Manejo de API Keys:** Si usas una API que requiere llave, asegúrate de mencionar en la sección de "Instalación" cómo configurar el archivo `environment.ts` o un `.env`, pero **nunca** subas tus llaves reales al repo.
-3.  **Endpoint de la API:** En la sección de "Características", podrías mencionar qué API consumes (si es pública como la de ACARA, InfoAuto o alguna propia) para dar contexto sobre la fuente de los datos.
-
-¿Te gustaría que profundicemos en alguna sección específica, como la de config
